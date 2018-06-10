@@ -1,0 +1,3 @@
+# Encampment Distribution Installer
+
+Installation details will go here...
