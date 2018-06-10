@@ -1,0 +1,13 @@
+{
+    "name": "jnettik/encampment_project",
+    "description": "Composer installer for the Encampment Drupal distribution.",
+    "type": "project",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "James Nettik",
+            "email": "james.nettik@gmail.com"
+        }
+    ],
+    "require": {}
+}
